@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>아현 셔츠룸 시간대 선택</title>
+  <rect width="64" height="64" rx="11" fill="hsl(359 43% 28%)"/>
+  <g transform="rotate(90 32 32)"><rect x="14" y="34" width="9" height="16" rx="2" fill="hsl(359 24% 96%)"/><rect x="27" y="26" width="9" height="24" rx="2" fill="hsl(359 24% 96%)"/><rect x="40" y="16" width="9" height="34" rx="2" fill="hsl(168 68% 64%)"/></g>
+</svg>
